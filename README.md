@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">QA Automation Engineer with a passion for building reliable, scalable test automation frameworks and exploring how AI can make software testing smarter.<br><br>⚙️ I work with daily: Playwright, TypeScript, Postman, SQL<br>🧪 Specialized in: UI Automation, API Testing, End-to-End Testing<br>🏗️ Frameworks: Playwright, Selenium C#, Page Object Model, Custom Fixtures<br>🔄 CI/CD & Tools: Git, GitHub Actions, Azure DevOps, VS Code<br>🤖 Exploring: AI-Assisted Testing, AI Agents, MCP, Workflow Automation<br>🏥 Domain Experience: Healthcare – RCM, EDI 837/835<br>💡 Interested in: Test Strategy, Automation Framework Design, API Testing, Quality Engineering, Risk Assessment<br>💬 ping me about Playwright, TypeScript, Test Automation, API Testing, AI in Testing</p>
+<p data-importer="text" align="left">I am a QA Automation Engineer with a passion for building reliable, scalable test automation frameworks and exploring how AI can make software testing smarter.<br><br>⚙️ I work with daily: Playwright, TypeScript, Postman, SQL<br>🧪 Specialized in: UI Automation, API Testing, End-to-End Testing<br>🏗️ Frameworks: Playwright, Selenium C#, Page Object Model, Custom Fixtures<br>🔄 CI/CD & Tools: Git, GitHub Actions, Azure DevOps, VS Code<br>🤖 Exploring: AI-Assisted Testing, AI Agents, MCP, Workflow Automation<br>🏥 Domain Experience: Healthcare – RCM, EDI 837/835<br>💡 Interested in: Test Strategy, Automation Framework Design, API Testing, Quality Engineering, Risk Assessment<br>💬 ping me about Playwright, TypeScript, Test Automation, API Testing, AI in Testing</p>
 
 ###
 

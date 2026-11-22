@@ -1,7 +1,5 @@
 <br clear="both">
 
-<img data-importer="image" align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif"  />
-
 ###
 
 <h1 data-importer="text" align="left">Hey 👋 What's up?</h1>

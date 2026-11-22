@@ -4,7 +4,7 @@
 
 QA Automation Engineer with a passion for building reliable, scalable test automation frameworks and exploring how AI can make software testing smarter.
 
-- ⚙️ I work with daily: `Playwright`, `TypeScript`, `JavaScript`, `Postman`, `SQL`
+- ⚙️ I work with daily: `Playwright`, `TypeScript`, `Postman`, `SQL`
 - 🧪 Specialized in: **UI Automation**, **API Testing**, **End-to-End Testing**
 - 🏗️ Frameworks: `Playwright`, `Selenium C#`, `Page Object Model`, `Custom Fixtures`
 - 🔄 CI/CD & Tools: `Git`, `GitHub Actions`, `Azure DevOps`, `VS Code`

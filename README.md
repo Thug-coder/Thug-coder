@@ -50,8 +50,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Thug-coder/Thug-coder/snake-output/snake.svg" alt="Snake animation" />
-
-###
